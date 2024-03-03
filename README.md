@@ -1,4 +1,4 @@
-# MyWebServer
+# Brilliant-Web-Server
 An HTTP Web Server in C++ that supports traditional features used across.HTTP uses a client-server model, where the client (usually a web browser)
 initiates requests, and the server responds to those requests. HTTP operates on top of TCP/IP, which ensures reliable delivery of data across the 
 internet.My Web Server is compatible with windows & linux platforms. The backbone of My web server is socket programming / network programming 
